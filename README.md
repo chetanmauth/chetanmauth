@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Chetan Mauth.
 
-<p>![](https://komarev.com/ghpvc/?username=chetanmauth)</p>
+![](https://komarev.com/ghpvc/?username=chetanmauth)
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=chetanmauth&show_icons=true&locale=en&layout=compact" alt="chetanmauth" /></p>
 
