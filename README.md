@@ -9,7 +9,6 @@
 
 - 🔭 I’m currently working as Android App Developer
 - 🌱 I’m currently learning Jetpack
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Broadus%20Palmer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levelupwithbroadus/)]([https://www.linkedin.com/in/levelupwithbroadus/](https://www.linkedin.com/in/chetanmauth/))
-
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Broadus%20Palmer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chetanmauth/)]
 
 
