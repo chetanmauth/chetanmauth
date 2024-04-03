@@ -1,8 +1,8 @@
 ### Hi there 👋 I am Chetan Mauth.
 
-![](https://komarev.com/ghpvc/?username=chetanmauth)
+<p>![](https://komarev.com/ghpvc/?username=chetanmauth)</p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=chetanmauth&show_icons=true&locale=en&layout=compact" alt="chetanmauth" /></p><br/>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=chetanmauth&show_icons=true&locale=en&layout=compact" alt="chetanmauth" /></p>
 
 - 🔭 I’m currently working as Android App Developer
 - 🌱 I’m currently learning Jetpack
