@@ -8,5 +8,9 @@
 - 🌱 I’m currently learning Jetpack
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Chetan%20Mauth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chetanmauth/)](https://www.linkedin.com/in/chetanmauth/)
 
+- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+
 
 
