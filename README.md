@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![MasterHead](https://appsmaventech.com/assets/images/blog/the-future-of-web-development.png)](https://chetanmauth.github.io/my_portfolio_website/#)
+
 ![](https://komarev.com/ghpvc/?username=chetanmauth)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chetanmauth&show_icons=true&locale=en&layout=compact" alt="chetanmauth" /></p>
