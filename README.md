@@ -2,7 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=chetanmauth)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chetanmauth&show_icons=true&locale=en" alt="chetanmauth" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chetanmauth&show_icons=true&locale=en&layout=compact" alt="chetanmauth" /></p>
 
 - 🔭 I’m currently working as Android App Developer
