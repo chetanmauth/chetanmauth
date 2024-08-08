@@ -7,7 +7,7 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=chetanmauth&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed" alt="chetanmauth" /></p>
 
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/chetanmauth?width=500&height=350&border=0&radius=10&ext=heatmap&theme=nord)](https://leetcode.com/chetanmauth)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/chetanmauth?width=4850&height=340&border=0&radius=10&ext=heatmap&theme=nord)](https://leetcode.com/chetanmauth)
 
 
 
